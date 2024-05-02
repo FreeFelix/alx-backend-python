@@ -446,6 +446,7 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
+*.main.py
 
 # Business Intelligence projects
 *.rdl.data
